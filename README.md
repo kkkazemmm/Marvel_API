@@ -1,2 +1,3 @@
 # Marvel_API
-Accessing Marvel API using Python
+Accessing Marvel API using Python script
+
